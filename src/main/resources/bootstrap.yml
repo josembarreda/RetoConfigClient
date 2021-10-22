@@ -2,7 +2,7 @@ spring:
   application:
     name: retovalue
   profiles:
-    active: 'backend'
+    active: backend
   cloud:
     config:
       enabled: true
